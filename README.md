@@ -1,8 +1,8 @@
 cplusplus
 =========
 
-examples of c and c++ 
+Examples of c and c++ 
 
-by ricardo ramirez
+by Ricardo Ramirez
 
-it's imposible
+only for educational purposes....
