@@ -44,12 +44,6 @@ int main()
 	show_date(20141101);
 	show_date(20141206);
 	show_date(20140407);
-	show_date(20140101);
-	show_date(20140331);
-	show_date(20141301);
-	show_date(20141023);
-	show_date(20141023);
-	show_date(20141032);
 }
 
 
