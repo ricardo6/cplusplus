@@ -57,6 +57,6 @@ int main()
 				maxCiclo = ciclosNum;		
 			}
 		}
-		cout << i << " " << j << " " << maxCiclo; 
+		cout << i << " " << j << " " << maxCiclo << endl; 
 	}
 }
