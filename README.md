@@ -3,6 +3,5 @@ cplusplus
 
 Examples of c and c++ 
 
-by Ricardo Ramirez
+by richi
 
-only for educational purposes....
